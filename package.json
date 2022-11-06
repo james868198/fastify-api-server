@@ -17,6 +17,7 @@
   "author": "james868198",
   "license": "ISC",
   "dependencies": {
+    "@fastify/swagger": "^8.1.0",
     "dotenv": "^16.0.3",
     "fastify": "^4.9.2",
     "vitest": "^0.24.5"
